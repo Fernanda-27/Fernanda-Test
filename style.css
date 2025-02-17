@@ -1,0 +1,92 @@
+.banner {
+    background: url("3.jpeg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 23%;
+    color: #fff;
+  }
+
+  .foto-jarak {
+    margin-right: 20px;
+  }
+  
+  .text-content {
+    text-align: justify; 
+    line-height: 1.8; 
+  }
+  
+  .lingkaran-img {
+    border-radius: 50%; 
+    width: 120px; 
+    height: 120px; 
+    object-fit: cover; 
+    border: 3px solid #ddd; 
+    padding: 5px; 
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  .tim img {
+    width: 250px;
+    border: 10px solid #cccccc;
+  }
+  
+  .kontak {
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+  }
+
+  .sosmed-icon-small {
+    width: 40px; 
+    height: 40px;
+    transition: transform 0.3s ease;
+  }
+  
+  .sosmed-icon-small:hover {
+    transform: scale(1.2); 
+  }  .sosmed-icon {
+    width: 40px; 
+    height: 40px; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .sosmed-icon:hover {
+    transform: scale(1.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .text-end {
+    text-align: right;
+  }  
+
+  .tiktok-icon {
+    background-color: #ffffff; /* Latar belakang merah cerah */
+    border-radius: 50%; /* Membuat bentuk ikon menjadi bulat */
+    padding: 5px; /* Memberikan ruang di dalam ikon */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan halus */
+  }
+  
+  .tiktok-icon:hover {
+    transform: scale(1.2);
+    background-color: #ffffff; /* Latar belakang berubah saat hover */
+  }
+  
+  .display-1 {
+    font-size: 20px;
+  }
+
+  .display-6 {
+    font-size: 40px;
+  }
